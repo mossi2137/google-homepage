@@ -14,7 +14,7 @@ ul {
 
 li {
   display: inline;
-  padding: 0 8px;
+  padding: 0 16px 0 0;
 }
 
 .navigation {
@@ -113,6 +113,7 @@ footer a {
 
 .country {
   font-size: 15px;
+  line-height: 40px;
 }
 
 .footerlinks {
